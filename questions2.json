@@ -1,0 +1,11 @@
+{
+    "q21": "What type of roof is this?",
+    "q22": "Is Shingle visible in the image?",
+    "q23": "Is Flashing visible in the image?",
+    "q24": "Is Underlayment visible in the image?",
+    "q25": "Is Eaves visible in the image?",
+    "q26": "Is Ridge visible in the image?",
+    "q27": "Is Valley visible in the image?",
+    "q28": "Is Pitch visible in the image?",
+    "q30": "Does the roof have any damages? Y/N"
+}

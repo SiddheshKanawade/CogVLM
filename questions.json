@@ -1,0 +1,12 @@
+{
+    "q1": "Describe this image",
+    "q2": "Are there any shingles on the roof? If so, what type?",
+    "q3": "Is roof in good health? If not, what is the condition?",
+    "q4": "Is there window in image? Can you point out the bounding box to window?",
+    "q5": "Is there skylight in image? Can you point out the bounding box to skylight?",
+    "q6": "Is there roof vent in image? Can you point out the bounding box to roof vent?",
+    "q7": "Is there solar panel in image? Can you point out the bounding box to solar panel?",
+    "q8": "Is there antenna in image? Can you point out the bounding box to antenna?",
+    "q9": "Is there satellite dish in image? Can you point out the bounding box to satellite dish?",
+    "q10": "Is there HVAC unit in image? Can you point out the bounding box to HVAC unit?"
+}

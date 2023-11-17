@@ -1,0 +1,11 @@
+{
+    "q31": "Does the roof image have wind type of damage?",
+    "q32": "Does the roof image have hail type of damage?",
+    "q33": "Does the roof image have heavy rain type of damage?",
+    "q34": "Does the roof image have snow type of damage?",
+    "q35": "Does the roof image have Debris type of damage?",
+    "q36": "Does the roof image have tornado damage type of damage?",
+    "q37": "Does the roof image have humidity damasge type of damage?",
+    "q38": "Does the roof image have improper installation type of damage?",
+    "q39": "Does the roof image have clogged drains or gutters type of damage?"
+}

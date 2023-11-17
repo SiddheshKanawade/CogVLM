@@ -1,0 +1,12 @@
+{
+    "q11": "Is there hatch in image? Can you point out the bounding box to hatch?",
+    "q12": "Is there lightning arrestor in image? Can you point out the bounding box to lightning arrestor?",
+    "q13": "Is there water tank in image? Can you point out the bounding box to water tank?",
+    "q14": "Is there flagpole in image? Can you point out the bounding box to flagpole?",
+    "q15": "Is there access ladder in image? Can you point out the bounding box to access ladder?",
+    "q16": "Is there weather station in image? Can you point out the bounding box to weather station?",
+    "q17": "Is there snow guards in image? Can you point out the bounding box to snow guards?",
+    "q18": "Is there roof drain in image? Can you point out the bounding box to roof drain?",
+    "q19": "Is there vent pipes in image? Can you point out the bounding box to vent pipes?",
+    "q20": "What seems to the area of the room in square feet?"
+}
